@@ -1,0 +1,22 @@
+Mar 06 06:14:44.429 HYPERVISOR: Release 0.2.17-amd64/Darwin (tag 2017072410)
+Mar 06 06:14:44.429 HYPERVISOR: Started on IP = 127.0.0.1, TCP port = 54230.
+Mar 06 06:14:44.432 HYPERVISOR: exec_cmd: hypervisor version 
+Mar 06 06:14:44.432 HYPERVISOR: exec_cmd: hypervisor working_dir /Users/tyokinuhata/GNS3/projects/subnet-mask/project-files/dynamips 
+Mar 06 06:14:44.433 GENERAL: working_dir=/Users/tyokinuhata/GNS3/projects/subnet-mask/project-files/dynamips
+Mar 06 06:14:44.433 HYPERVISOR: exec_cmd: nio_bridge create Ethernethub-1 
+Mar 06 06:15:18.730 HYPERVISOR: exec_cmd: nio create_udp udp-d434615d-4295-4812-a055-5ac6470b0d2d 10000 127.0.0.1 10001 
+Mar 06 06:15:18.731 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-d434615d-4295-4812-a055-5ac6470b0d2d 
+Mar 06 06:24:27.488 HYPERVISOR: exec_cmd: nio create_udp udp-ce0f0f4c-05db-4aec-b1dd-d05ef456a965 10004 127.0.0.1 10005 
+Mar 06 06:24:27.488 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-ce0f0f4c-05db-4aec-b1dd-d05ef456a965 
+Mar 06 06:25:32.158 HYPERVISOR: exec_cmd: nio create_udp udp-efaf15a0-65f8-4669-885e-d9c4ef049257 10006 127.0.0.1 10007 
+Mar 06 06:25:32.159 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-efaf15a0-65f8-4669-885e-d9c4ef049257 
+Mar 06 06:25:37.241 HYPERVISOR: exec_cmd: nio create_udp udp-31ee6529-3b50-485f-868f-6e2557ae9d81 10008 127.0.0.1 10009 
+Mar 06 06:25:37.241 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-31ee6529-3b50-485f-868f-6e2557ae9d81 
+Mar 06 06:25:40.291 HYPERVISOR: exec_cmd: nio create_udp udp-fd7645c6-efd9-4c45-89af-283aed38bfda 10010 127.0.0.1 10011 
+Mar 06 06:25:40.291 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-fd7645c6-efd9-4c45-89af-283aed38bfda 
+Mar 06 06:25:43.282 HYPERVISOR: exec_cmd: nio create_udp udp-95fc507f-f5a4-4ec2-9bdc-480a4aafcc50 10012 127.0.0.1 10013 
+Mar 06 06:25:43.282 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-95fc507f-f5a4-4ec2-9bdc-480a4aafcc50 
+Mar 06 06:25:46.550 HYPERVISOR: exec_cmd: nio create_udp udp-40112db6-5754-4ea6-bfab-2d4e1de98e94 10014 127.0.0.1 10015 
+Mar 06 06:25:46.550 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-40112db6-5754-4ea6-bfab-2d4e1de98e94 
+Mar 06 06:25:50.596 HYPERVISOR: exec_cmd: nio create_udp udp-029a6cd7-df56-4cd6-9630-02ed530d5450 10016 127.0.0.1 10017 
+Mar 06 06:25:50.596 HYPERVISOR: exec_cmd: nio_bridge add_nio Ethernethub-1 udp-029a6cd7-df56-4cd6-9630-02ed530d5450 
